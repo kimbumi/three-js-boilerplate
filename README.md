@@ -17,7 +17,7 @@ Open development server
 npm run start
 ```
 
-Build your project with this command, then it'll create a public foler and bundled files.
+Build your project with this command, then it'll create a public folder and bundled files.
 ```bash
 npm run build
 ```
